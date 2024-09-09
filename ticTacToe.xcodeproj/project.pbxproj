@@ -16,6 +16,7 @@
 		10E07D6F2C8CFEDE00C25182 /* ticTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E07D6E2C8CFEDE00C25182 /* ticTacToeTests.swift */; };
 		10E07D792C8CFEDE00C25182 /* ticTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E07D782C8CFEDE00C25182 /* ticTacToeUITests.swift */; };
 		10E07D7B2C8CFEDE00C25182 /* ticTacToeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E07D7A2C8CFEDE00C25182 /* ticTacToeUITestsLaunchTests.swift */; };
+		10E07D882C8E451500C25182 /* drawLineTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E07D872C8E451500C25182 /* drawLineTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		10E07D742C8CFEDE00C25182 /* ticTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ticTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		10E07D782C8CFEDE00C25182 /* ticTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ticTacToeUITests.swift; sourceTree = "<group>"; };
 		10E07D7A2C8CFEDE00C25182 /* ticTacToeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ticTacToeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		10E07D872C8E451500C25182 /* drawLineTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drawLineTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				10E07D572C8CFEDD00C25182 /* AppDelegate.swift */,
 				10E07D592C8CFEDD00C25182 /* SceneDelegate.swift */,
 				10E07D5B2C8CFEDD00C25182 /* ViewController.swift */,
+				10E07D872C8E451500C25182 /* drawLineTest.swift */,
 				10E07D5D2C8CFEDD00C25182 /* Main.storyboard */,
 				10E07D602C8CFEDE00C25182 /* Assets.xcassets */,
 				10E07D622C8CFEDE00C25182 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				10E07D5C2C8CFEDD00C25182 /* ViewController.swift in Sources */,
 				10E07D582C8CFEDD00C25182 /* AppDelegate.swift in Sources */,
 				10E07D5A2C8CFEDD00C25182 /* SceneDelegate.swift in Sources */,
+				10E07D882C8E451500C25182 /* drawLineTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
